@@ -1,0 +1,16 @@
+-- import: package/header as navbar
+-- navbar,header:
+logo: $assets,files,images,logo,svg
+logoUrl: portfolio
+header-item-1: Home
+header-item-2: About
+header-item-3: Blogs
+header-item-4: Projects
+header-item-1-link: /portfolio/home
+header-item-2-link: /portfolio/about
+header-item-3-link: /portfolio/blogs
+header-item-4-link: /portfolio/projects
+chr-item-1: Resume
+chr-item-1-link: /portfolio/resume
+chr-item-2: Schedule a meeting
+chr-item-2-link: /portfolio/meet
